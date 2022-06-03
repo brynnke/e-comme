@@ -1,5 +1,8 @@
 # E-commerce 
 
+## description
+Build the backend code for a ecommerce website.  Use working expresss.js and use sql and and sequlize it. 
+
 ## user story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
