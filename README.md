@@ -29,5 +29,7 @@ The purpose of this application is to use ORM to display the models. USing insom
 
 ## mock-up
 
-##
+## video 
+https://drive.google.com/file/d/1dAXJudesp9eslQmps_z1k2JFX-vnU3Tc/view?usp=sharing
+https://drive.google.com/drive/recent
 
